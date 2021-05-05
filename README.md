@@ -1,4 +1,4 @@
-# tic-tac-toe-jsx
+# tic-tac-toe-js
 
 This is an extension of this tutorial: https://reactjs.org/tutorial/tutorial.html#passing-data-through-props
 
